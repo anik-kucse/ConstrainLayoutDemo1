@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ConstrainLayoutDemo1</string>
+    <string name="title">Lorem Ipsum is simply</string>
+    <string name="title_foter">Text of the printing and</string>
+    <string name="button_text_1">Lorem Ipsum</string>
+    <string name="button_text_2">Lorem Ipsum</string>
+    <string name="mini_button_text_1">qwe</string>
+    <string name="mini_button_text_2">qwe</string>
+    <string name="mini_button_text_3">qwe</string>
+    <string name="mini_button_text_4">qwe</string>
+    <string name="description_text">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    </string>
+</resources>
